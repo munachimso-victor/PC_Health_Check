@@ -1,5 +1,5 @@
 # PC_Health_Check
-#### Resources: Psutil, shutil, python, requests
+#### Resources: Psutil, shutil, python, requests, socket, pyfiglet, termcolor
 
 &nbsp;
 #### Run the program by clicking this link!: https://pchealthcheck.nwaiwumunachims.repl.run/
@@ -12,5 +12,6 @@ Checks Include:
  Network Connectivity
 
 
+For maximim accuracy, download the python program with it's dependencies, and run pscript locally
 
 
