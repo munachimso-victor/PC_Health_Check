@@ -12,6 +12,6 @@ Checks Include:
  Network Connectivity
 
 
-For maximim accuracy, download the python program with it's dependencies, and run pscript locally
+For maximum accuracy, download the python program and it's dependencies and run script locally
 
 
